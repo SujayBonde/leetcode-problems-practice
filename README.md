@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions in Java
 
 Welcome to my **LeetCode Solutions Repository**!  
-This repo contains problems I’ve solved on [LeetCode](https://leetcode.com/SujayBonde) using **Java**.  
+This repo contains problems I’ve solved on [LeetCode](https://leetcode.com/Sujay_Bonde) using **Java**.  
 It serves as both a personal practice log and a resource for others preparing for coding interviews.
 
 ---
