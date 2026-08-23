@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions in Java
+# LeetCode Solutions in Java
 
 Welcome to my **LeetCode Solutions Repository**!  
 This repo contains problems I’ve solved on [LeetCode](https://leetcode.com/Sujay_Bonde) using **Java**.  
@@ -20,7 +20,7 @@ It serves as both a personal practice log and a resource for others preparing fo
 
 ---
 
-## 🎯 Goals
+## Goals
 - Strengthen **Data Structures & Algorithms (DSA)** skills  
 - Prepare for **placements & coding interviews**  
 - Build clean, optimized, and well‑documented solutions  
@@ -38,7 +38,7 @@ It serves as both a personal practice log and a resource for others preparing fo
 
 ---
 
-## ✅ How to Use
+## How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/SujayBonde/leetcode-problems-practice.git
